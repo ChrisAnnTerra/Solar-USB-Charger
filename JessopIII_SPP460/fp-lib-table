@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name ul_BQ24210dQCT)(type KiCad)(uri ${KIPRJMOD}/ul_BQ24210DQCT/KiCAD/2020-04-26_17-24-21/ul_BQ24210dQCT.pretty)(options "")(descr "")(disabled))
+  (lib (name RT4812GJ8F)(type KiCad)(uri ${KIPRJMOD}/RT4812GJ8F)(options "")(descr "")(disabled))
+  (lib (name TRANS_CSD17575Q3)(type Legacy)(uri ${KIPRJMOD}/TRANS_CSD17575Q3.mod)(options "")(descr "")(disabled))
+  (lib (name ul_BQ29700DSER)(type KiCad)(uri ${KIPRJMOD}/ul_BQ29700DSER)(options "")(descr "")(disabled))
+  (lib (name FETfoot)(type KiCad)(uri ${KIPRJMOD}/FETfoot.pretty)(options "")(descr ""))
+)

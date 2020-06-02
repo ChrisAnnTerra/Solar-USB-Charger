@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Transistor_FET_Modified)(type Legacy)(uri ${KIPRJMOD}/Transistor_FET_Modified.lib)(options "")(descr ""))
+  (lib (name FETlibrary)(type Legacy)(uri ${KIPRJMOD}/FETlibrary.lib)(options "")(descr ""))
+  (lib (name JessopIII_SPP460-rescue)(type Legacy)(uri ${KIPRJMOD}/JessopIII_SPP460-rescue.lib)(options "")(descr ""))
+)
