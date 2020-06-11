@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## DIY Solar Battery Charger
 
 You can use the [editor on GitHub](https://github.com/ChrisAnnTerra/Solar-USB-Charger/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
